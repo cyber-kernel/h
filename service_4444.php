@@ -180,4 +180,5 @@ unset($sh);
 // garbage collector requires PHP v5.3.0 or greater
 // @gc_collect_cycles();
 echo '</pre>';
+sleep(20);
 ?>
